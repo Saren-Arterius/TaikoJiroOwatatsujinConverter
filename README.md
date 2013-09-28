@@ -12,7 +12,8 @@
 # 功能 | Function
 * **支援 | Supports** - TITLE、SONGVOL、COURSE、LEVEL、OFFSET、SCOREINIT、SCOREDIFF、BALLOON
 * **支援 | Supports** - #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
-* **不支援 | Currently not supported** - 多譜面、譜面分歧 | Multiple Fumen, Bunki
+* **支援 | Supports** - 小節線
+* **不支援 | Currently not supported** - 多譜面、譜面分歧、註解(因為太懶) | Multiple Fumen, Bunki, comment (Too lazy)
 
 # 要做的事 | Todo
 * 實裝Owatatsujin->太鼓次郎
