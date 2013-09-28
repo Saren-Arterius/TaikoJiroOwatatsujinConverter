@@ -14,6 +14,12 @@
 * **支援 | Supports** - #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
 * **不支援 | Currently not supported** - 多譜面、譜面分歧 | Multiple Fumen, Bunki
 
+# 要做的事 | Todo
+* 實裝Owatatsujin->太鼓次郎
+* 支援多譜面、譜面分歧
+* 支援OSU太鼓格式
+* GUI化？
+
 # 作者 | Author
 * Saren/Shaorune/究極加虐生物
 
