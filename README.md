@@ -16,7 +16,6 @@
 授權：GNU GPL
 ___________________________________
 Taiko Jiro <-> Owatatsujin converter v0.0.1
-
 Currently only Taiko Jiro -> Owatatsujin is implemented
 
 
@@ -24,9 +23,7 @@ Currently only Taiko Jiro -> Owatatsujin is implemented
 Usage:
 
 Download bin32.zip
-
 Drag *.tja to Jiro2Owt.exe, *.tja.data.txt will be generated automatically
-
 Please rename *.tja.data.txt to data.txt
 
 
@@ -40,5 +37,7 @@ Currently not supported: Multiple Fumen, Bunki
 
 
 Author: Saren/Shaorune/究極加虐生物
+
+
 
 License: GNU GPL (Go wild:P) 
