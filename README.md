@@ -16,6 +16,7 @@
 授權：GNU GPL
 ___________________________________
 Taiko Jiro <-> Owatatsujin converter v0.0.1
+
 Currently only Taiko Jiro -> Owatatsujin is implemented
 
 
