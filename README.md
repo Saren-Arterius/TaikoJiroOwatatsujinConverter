@@ -34,9 +34,7 @@ Please rename *.tja.data.txt to data.txt
 Function:
 
 Supports: TITLE、SONGVOL、COURSE、LEVEL、OFFSET、SCOREINIT、SCOREDIFF、BALLOON
-
 Supports: #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
-
 Currently not supported: Multiple Fumen, Bunki
 
 
