@@ -23,7 +23,9 @@ Currently only Taiko Jiro -> Owatatsujin is implemented
 Usage:
 
 Download bin32.zip
+
 Drag *.tja to Jiro2Owt.exe, *.tja.data.txt will be generated automatically
+
 Please rename *.tja.data.txt to data.txt
 
 
