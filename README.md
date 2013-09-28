@@ -29,4 +29,5 @@ Supports: #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BAR
 Currently not supported: Multiple Fumen, Bunki
 
 Author: Saren/Shaorune/究極加虐生物
+
 License: GNU GPL (Go wild:P) 
