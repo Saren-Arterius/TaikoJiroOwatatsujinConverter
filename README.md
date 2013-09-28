@@ -1,46 +1,21 @@
-太鼓次郎<->Owatatsujin轉換器v0.0.1
-目前只實裝了太鼓次郎->Owatatsujin
+# 介紹 | Introduction
 
-用法：
-下載bin32.zip
-把*.tja檔案拖到Jiro2Owt.exe中，會自動生成*.tja.data.txt
-請把*.tja.data.txt更名為data.txt
+* **名稱 | Name** - 太鼓次郎<->Owatatsujin轉換器v0.0.1 | Taiko Jiro <-> Owatatsujin converter v0.0.1
+* **目的 | Purpose** - 太鼓次郎.tja格式和Owatatsujin data.txt格式雙向轉換 | Convert .tja to data.txt and vice versa
+* **注意 | Notice** - 目前只實裝了太鼓次郎->Owatatsujin | Currently only Taiko Jiro -> Owatatsujin is implemented
 
-功能：
-支援TITLE、SONGVOL、COURSE、LEVEL、OFFSET、SCOREINIT、SCOREDIFF、BALLOON
-支援#START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
-不支援多譜面、譜面分歧
+# 用法 | Usage
+* 下載bin32.zip | Download bin32.zip
+* 把.tja檔案拖到Jiro2Owt.exe中，會自動生成.tja.data.txt | Drag .tja to Jiro2Owt.exe, .tja.data.txt will be generated automatically.
+* 請把.tja.data.txt更名為data.txt | Please rename *.tja.data.txt to data.txt.
 
-作者：Saren/Shaorune/究極加虐生物
+# 功能 | Function
+* **支援 | Supports** - TITLE、SONGVOL、COURSE、LEVEL、OFFSET、SCOREINIT、SCOREDIFF、BALLOON
+* **支援 | Supports** - #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
+* **不支援 | Currently not supported** - 多譜面、譜面分歧 | Multiple Fumen, Bunki
 
-授權：GNU GPL
-___________________________________
-Taiko Jiro <-> Owatatsujin converter v0.0.1
+# 作者 | Author
+* Saren/Shaorune/究極加虐生物
 
-Currently only Taiko Jiro -> Owatatsujin is implemented
-
-
-
-Usage:
-
-Download bin32.zip
-
-Drag *.tja to Jiro2Owt.exe, *.tja.data.txt will be generated automatically
-
-Please rename *.tja.data.txt to data.txt
-
-
-
-Function:
-
-Supports: TITLE、SONGVOL、COURSE、LEVEL、OFFSET、SCOREINIT、SCOREDIFF、BALLOON
-Supports: #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
-Currently not supported: Multiple Fumen, Bunki
-
-
-
-Author: Saren/Shaorune/究極加虐生物
-
-
-
-License: GNU GPL (Go wild:P) 
+# 授權 | License
+* GNU GPL (Go wild:P)
