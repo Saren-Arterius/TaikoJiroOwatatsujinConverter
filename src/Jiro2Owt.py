@@ -74,7 +74,6 @@ def fumenComment():
         fumenDict["BPM"] = float(re.sub("^[^\d.-]+", "", line))
         unit_time = (60/fumenDict["BPM"])/(legnth/4)*fumenDict["MEA"]
         unit_str = "u("+str(unit_time)+")"
-        print("#BPMCHANGE",unit_str)
         if (unit_time != lastUnitT):
             newline.insert(0,unit_str)
             lastUnitT = unit_time
