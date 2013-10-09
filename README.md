@@ -12,7 +12,7 @@
 # 功能 | Function
 * **支援 | Supports** - TITLE、SONGVOL、COURSE、LEVEL、OFFSET、SCOREINIT、SCOREDIFF、BALLOON
 * **支援 | Supports** - #START、#GOGOSTART、#GOGOEND、#BPMCHANGE、#MEASURE、#DELAY、#BARLINEON、#BARLINEOFF、#END
-* **支援 | Supports** - 小節線, 多譜面, 少量註解
+* **支援 | Supports** - 小節線、多譜面、多難度、譜面外註解
 * **不支援 | Currently not supported** -譜面分歧| Bunki
 
 # 要做的事 | Todo
